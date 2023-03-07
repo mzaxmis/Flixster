@@ -29,14 +29,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Simulator Screen Shot - iPhone 14 Pro - 2023-03-07 at 02 51 27](https://user-images.githubusercontent.com/121317176/223359593-48b9704e-4421-4b4c-9685-8c8fa50d35b3.png)
 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Simulator Screen Shot - iPhone 14 Pro - 2023-03-07 at 02 51 27](https://user-images.githubusercontent.com/121317176/223359453-12476ed3-e90b-454f-b12c-c86ffe3226d5.gif)
-https://im2.ezgif.com/tmp/ezgif-2-e45b58a17a.gif
+
+<img src='![flixster](https://user-images.githubusercontent.com/121317176/223364769-c2aa268a-ace8-49d6-82a0-c6d69dcab438.gif)
+' />
+
 GIF created with website called img2go.com
-![flixster](https://user-images.githubusercontent.com/121317176/223364504-2ffc9c55-b486-4e06-a4d6-34996d669165.gif)
 
 
 ## Notes
