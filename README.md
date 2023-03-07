@@ -36,7 +36,7 @@ Here's a walkthrough of implemented user stories:
 ' />
 https://im2.ezgif.com/tmp/ezgif-2-e45b58a17a.gif
 
-GIF created with website called img2go.com
+GIF created with website called ezgif.com
 
 
 ## Notes
