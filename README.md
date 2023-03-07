@@ -36,6 +36,7 @@ Here's a walkthrough of implemented user stories:
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-03-07 at 02 51 27](https://user-images.githubusercontent.com/121317176/223359453-12476ed3-e90b-454f-b12c-c86ffe3226d5.gif)
 https://im2.ezgif.com/tmp/ezgif-2-e45b58a17a.gif
 GIF created with website called img2go.com
+![flixster](https://user-images.githubusercontent.com/121317176/223364504-2ffc9c55-b486-4e06-a4d6-34996d669165.gif)
 
 
 ## Notes
