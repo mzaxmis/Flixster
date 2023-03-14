@@ -29,10 +29,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough](https://im2.ezgif.com/tmp/ezgif-2-e45b58a17a.gif)' />
 
 
-GIF created with website called img2flip.com
+GIF created with website called ezgif.com
 
 
 ## Notes
