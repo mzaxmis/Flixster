@@ -29,8 +29,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough](https://im2.ezgif.com/tmp/ezgif-2-e45b58a17a.gif)' />
-
+<img src='![flixster](https://user-images.githubusercontent.com/121317176/223364769-c2aa268a-ace8-49d6-82a0-c6d69dcab438.gif)
+' />
+https://im2.ezgif.com/tmp/ezgif-2-e45b58a17a.gif
 
 GIF created with website called ezgif.com
 
