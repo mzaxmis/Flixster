@@ -1,6 +1,6 @@
 # Project 3 - *Flixster Part 2*
 
-Submitted by: Misbah Mazhar
+Submitted by: MM
 
 Flixster is an app that introduces the users to a selection movies, including their ratings and popularity. 
 With Part 2, it also provides the user with a gridlike overview of the movies in a separate tabs. 
